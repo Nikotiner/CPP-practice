@@ -20,8 +20,22 @@ Various exercises for practice C++
 #### day04
  - Abstract class.
  - Interfaces.
- #### day05
+#### day05
  - Exceptions.
  - Nested classes.
-  #### day06
-  
+#### day06
+ - Upcast and downcast.
+ - Static, dynamic, reinterpret, const cast.
+ - Cast operators.
+ - Explicit keyword.
+#### day07
+ - Templates.
+ - Default type.
+ - Specialization.
+#### rush00 - game
+ - Display using the ncurses library.
+ - Vertical scrolling.
+ - Random enemies.
+ - The player can shoot at enemies.
+ - Basic collision handling.
+ - Player occupy multiple squares
