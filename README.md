@@ -2,16 +2,26 @@
 Various exercises for practice C++
 
 #### day00
- - Classes, classes variables, methods.
+ - Class and instance.
+ - Namespaces, stdio streams.
+ - Member attributes and member function.
+ - This, const.
+ - Pointers to members.
 #### day01
- - Work with stack, heap and delete memory.
- - Constructors, destructors, polymorphism.
- - Private, public and protected params.
- - Work with files using streams.
+ - New and delete.
+ - References.
+ - Filestream.
 #### day02
- - Implementation of fixed point.
- - Copy constructor.
- - Operator redefinition
+ - Canonical form.
+ - Polymorphism.
+ - Operator overload
 #### day03
- - Inheritance and virtual inheritance.
- - Pointers to function.
+ - Inheritance C++.
+#### day04
+ - Abstract class.
+ - Interfaces.
+ #### day05
+ - Exceptions.
+ - Nested classes.
+  #### day06
+  
